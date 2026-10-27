@@ -4,7 +4,6 @@ Medical doctor and data analyst working on **health systems, financing and digit
 
 - 🏥 Hon. Treasurer General, Kenya Medical Association
 - 📊 MSc Data Analytics · MBChB (University of Nairobi)
-- 💡 Former Head of UHC & Clinical Outreaches, Kenyatta National Hospital
 - 🔭 Currently working on: the NESP project, sustainable healthcare equipping in Kenya
 - 🌱 Learning: open health data analysis in Python and R
 - ✍️ Writing: [SHA payments op-ed](https://willowhealthmedia.org/sha-will-work-better-if-making-payments-is-simpler-clearer-and-fairer/) · [We Devolved Healthcare Too Far](https://medium.com/@aminaaguleid/we-devolved-healthcare-too-far-f141724f7380)
